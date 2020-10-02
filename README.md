@@ -22,3 +22,4 @@ Parse that file.
 Load it to a dictionary.
 
 Iterate and use the dictionary in IsHooked method.
+
